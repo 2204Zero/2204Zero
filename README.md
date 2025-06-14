@@ -40,9 +40,15 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
 
 ## 📊 GitHub Stats
 
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyagoyal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" width="47%" alt="Lakshya's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyagoyal&theme=tokyonight&hide_border=true&border_radius=15" width="47%" alt="Lakshya's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyagoyal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" width="47%" alt="Top Languages"/>
+</p>
+
 
 ## 🧰 Tools I'm Using
 - 💬 Discord.js & Pycord
