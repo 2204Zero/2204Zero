@@ -1,7 +1,6 @@
 <!-- Typing intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B3FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Lakshya+%F0%9F%91%8B;AI+%26+DS+Undergrad+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Community+Leader;Future+AI+Developer+%F0%9F%94%BB;Discord+Bot+%26+Web+Dev+Learner)](https://git.io/typing-svg)
 
----
 
 ## 👋 About Me
 
@@ -17,8 +16,6 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
 - ⚡ Fun Fact: In Call of Duty, I respawn. In code, I rewrite.🐞💥
 <br>
 
----
-
 ## 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
@@ -29,8 +26,6 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
   </a>
 </p>
 
-
----
 ### 🧠 Tech Stack
 <p align="left">
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36" height="36"/>
@@ -44,22 +39,17 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
 </p>
 <br>
 
----
-
 ## 📊 GitHub Stats
 
 ![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
----
-
 ## 🧰 Tools I'm Using
 - 💬 Discord.js & Pycord
 - 🖼️ Canva, Figma
 - 👨‍💻 VS Code, Git, GitHub Desktop
 <br>
----
 
 > _“Stay curious. Stay building.”_
 
