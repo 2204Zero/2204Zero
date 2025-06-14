@@ -26,6 +26,7 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
 </p>
 
 ### 🧠 Tech Stack
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="36" height="36"/>
