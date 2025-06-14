@@ -17,10 +17,10 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/zero2004" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>
   </a>
-  <a href="https://discord.gg/yourinvite" target="_blank">
+  <a href="https://discord.gg/rH6xG29M" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="36" height="36"/>
   </a>
 </p>
