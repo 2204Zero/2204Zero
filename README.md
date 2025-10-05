@@ -8,7 +8,7 @@ Hey there! I'm **Lakshya Goyal** — a passionate tech enthusiast, community bui
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** (2028)
 - 🌐 Exploring **Web Development**, **Python Automation**, and **AI Tools**
-- 🛠️ Currently working with **Hacker's Unity** as a **Discord Manager & Media Designer**
+- 🛠️ Working experience **Hacker's Unity** as a **Discord Manager, Media Designer & Tech Lead**
 - 💻 Learning: **C++**, **JavaScript**, and full-stack web development
 - 🎮 Side Quest: Collaborating on **Call of Duty YouTube content**
 - 💬 Ask me about: **Discord bots**, and, **community engagement**
