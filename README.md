@@ -1,61 +1,85 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+systems;Learning+deep+fundamentals;Future+AI+Engineer" />
+</p>
+
+---
+
 # Hi, I'm Lakshya 👋
 
-I'm a computer science student focused on **core software engineering**, **problem-solving**, and **building practical systems**.  
+I'm a computer science student focused on **core software engineering**, **problem-solving**, and **building practical systems**.
 I prefer understanding fundamentals deeply before moving to abstractions.
+
+---
+
+## 🖥️ About Me (terminal)
+
+```bash
+> whoami
+Lakshya (CS Student)
+
+> focus
+DSA | System Design | AI Systems
+
+> learning_style
+Build → Break → Understand → Repeat
+
+> current_status
+Still learning. Still building.
+```
 
 ---
 
 ## 🔍 What I'm working on
 
-- Data Structures & Algorithms in **C++**
-- Web Development with a focus on **real-world use cases**
-- Exploring **AI systems** and how they work internally
-- Building small but meaningful projects instead of tutorial clones
+* Data Structures & Algorithms in **C++**
+* Web Development with focus on **real-world use cases**
+* Exploring **AI systems** and how they work internally
+* Building projects that solve **actual problems**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-- C, C++
-- Python
-- JavaScript
+### ⚙️ Tools & Technologies I Work With
 
-**Web**
-- HTML, CSS
-- React, Next.js (learning & building)
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Linux (basics)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,git,github,linux,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📌 Learning Approach
+## 🎯 Current Focus
 
-- Learn by **building first**, then refining concepts
-- Focus on **why things work**, not just how
-- Avoid overengineering, but write clean and readable code
+* 📌 Strengthening problem-solving (DSA)
+* ⚙️ Building backend-heavy real-world projects
+* 🤖 Understanding LLMs & system design
 
 ---
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2204Zero&show_icons=true&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2204Zero&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2204Zero&layout=compact&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2204Zero&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/2204Zero
+* GitHub: https://github.com/2204Zero
 
 ---
 
-> Still learning. Still building. Improving one project at a time.
+> "Build things. Break them. Understand why they broke."
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=footer"/>
+</p>
