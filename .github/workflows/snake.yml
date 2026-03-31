@@ -16,7 +16,8 @@ jobs:
           github_user_name: 2204Zero
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg
+          palette: github-dark  
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
