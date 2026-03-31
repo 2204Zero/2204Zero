@@ -8,7 +8,7 @@
 
 ---
 
-# Hi, I'm Lakshya 
+# Hi, I'm unknown Developer 
 
 I'm a computer science student focused on **core software engineering**, **problem-solving**, and **building practical systems**.
 I prefer understanding fundamentals deeply before moving to abstractions.
@@ -19,7 +19,7 @@ I prefer understanding fundamentals deeply before moving to abstractions.
 
 ```bash id="9t9d6h"
 > whoami
-Lakshya (CS Student)
+ZERO (CS Student)
 
 > focus
 DSA | System Design | AI Systems
