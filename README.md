@@ -17,7 +17,7 @@ I prefer understanding fundamentals deeply before moving to abstractions.
 
 ## 🖥️ About Me (terminal)
 
-```bash
+```bash id="9t9d6h"
 > whoami
 Lakshya (CS Student)
 
@@ -30,6 +30,24 @@ Build → Break → Understand → Repeat
 > current_status
 Still learning. Still building.
 ```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Code Analyzer
+<a href = "https://github.com/2204Zero/Code_analyzer_stable.git">Code_Analyzer</a>
+* Built using **Python + Ollama + RAG**
+* Handles document-based queries with context awareness
+* Focus: real-world AI system design (not just UI)
+
+---
+
+### 🔹 Java Console Management System
+
+* CLI-based system with **MySQL integration**
+* Supports CRUD operations and structured data handling
+* Focus: backend logic & database fundamentals
 
 ---
 
