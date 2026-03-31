@@ -89,7 +89,12 @@ Still learning. Still building.
 </p>
 
 ---
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2204Zero/2204Zero/output/github-contribution-grid-snake.svg" />
+</p>
+---
 ## 📫 Contact
 
 * GitHub: https://github.com/2204Zero
