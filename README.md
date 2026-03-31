@@ -8,14 +8,14 @@
 
 ---
 
-# Hi, I'm Lakshya 👋
+# Hi, I'm Lakshya 
 
 I'm a computer science student focused on **core software engineering**, **problem-solving**, and **building practical systems**.
 I prefer understanding fundamentals deeply before moving to abstractions.
 
 ---
 
-## 🖥️ About Me (terminal)
+## About Me (terminal)
 
 ```bash id="9t9d6h"
 > whoami
@@ -33,7 +33,7 @@ Still learning. Still building.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 Code Analyzer
 <a href = "https://github.com/2204Zero/Code_analyzer_stable.git">Code_Analyzer</a>
@@ -51,7 +51,7 @@ Still learning. Still building.
 
 ---
 
-## 🔍 What I'm working on
+## What I'm working on
 
 * Data Structures & Algorithms in **C++**
 * Web Development with focus on **real-world use cases**
@@ -60,9 +60,9 @@ Still learning. Still building.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### ⚙️ Tools & Technologies I Work With
+### Tools & Technologies I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,git,github,linux,vscode&theme=dark" />
@@ -70,15 +70,15 @@ Still learning. Still building.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-* 📌 Strengthening problem-solving (DSA)
-* ⚙️ Building backend-heavy real-world projects
-* 🤖 Understanding LLMs & system design
+* Strengthening problem-solving (DSA)
+* Building backend-heavy real-world projects
+* Understanding LLMs & system design
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2204Zero&show_icons=true&theme=github_dark&hide_border=true" />
@@ -89,13 +89,13 @@ Still learning. Still building.
 </p>
 
 ---
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/2204Zero/2204Zero/output/snake-dark.svg" />
 </p>
 ---
-## 📫 Contact
+## Contact
 
 * GitHub: https://github.com/2204Zero
 
