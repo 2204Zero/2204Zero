@@ -1,4 +1,4 @@
-<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
 
@@ -7,64 +7,68 @@
       <stop offset="100%" stop-color="#1e3a8a"/>
     </radialGradient>
 
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="8"/>
+    <filter id="blurGlow">
+      <feGaussianBlur stdDeviation="12"/>
     </filter>
 
   </defs>
+
+  <!-- Background -->
 
   <rect
     width="100%"
     height="100%"
     fill="transparent"/>
 
-  <!-- Orbit Rings -->
+  <!-- Outer Orbit -->
 
   <circle
-    cx="400"
-    cy="200"
-    r="90"
+    cx="450"
+    cy="225"
+    r="170"
     fill="none"
     stroke="#38bdf8"
-    opacity="0.15"/>
+    stroke-opacity="0.12"/>
+
+  <!-- Inner Orbit -->
 
   <circle
-    cx="400"
-    cy="200"
-    r="140"
+    cx="450"
+    cy="225"
+    r="110"
     fill="none"
     stroke="#38bdf8"
-    opacity="0.10"/>
+    stroke-opacity="0.18"/>
 
   <!-- Core Glow -->
 
   <circle
-    cx="400"
-    cy="200"
-    r="40"
+    cx="450"
+    cy="225"
+    r="55"
     fill="#60a5fa"
-    opacity="0.2"
-    filter="url(#softGlow)"/>
+    opacity="0.15"
+    filter="url(#blurGlow)"/>
 
   <!-- Core -->
 
   <circle
-    cx="400"
-    cy="200"
-    r="28"
+    cx="450"
+    cy="225"
+    r="32"
     fill="url(#coreGlow)">
 
     <animate
       attributeName="r"
-      values="28;32;28"
+      values="32;36;32"
       dur="3s"
       repeatCount="indefinite"/>
 
   </circle>
 
   <text
-    x="400"
-    y="205"
+    x="450"
+    y="230"
     text-anchor="middle"
     fill="white"
     font-family="monospace"
@@ -82,38 +86,38 @@
     <animateTransform
       attributeName="transform"
       type="rotate"
-      from="0 400 200"
-      to="360 400 200"
+      from="0 450 225"
+      to="360 450 225"
       dur="20s"
       repeatCount="indefinite"/>
 
-    <circle cx="490" cy="200" r="18" fill="#111827"/>
-    <text x="490" y="205"
-      text-anchor="middle"
-      fill="#60a5fa"
-      font-family="monospace"
-      font-size="10">Java</text>
+    <image
+      href="./icons/java.svg"
+      x="542"
+      y="205"
+      width="40"
+      height="40"/>
 
-    <circle cx="400" cy="110" r="18" fill="#111827"/>
-    <text x="400" y="115"
-      text-anchor="middle"
-      fill="#60a5fa"
-      font-family="monospace"
-      font-size="9">Python</text>
+    <image
+      href="./icons/python.svg"
+      x="430"
+      y="92"
+      width="40"
+      height="40"/>
 
-    <circle cx="310" cy="200" r="18" fill="#111827"/>
-    <text x="310" y="205"
-      text-anchor="middle"
-      fill="#60a5fa"
-      font-family="monospace"
-      font-size="8">Docker</text>
+    <image
+      href="./icons/docker.svg"
+      x="318"
+      y="205"
+      width="40"
+      height="40"/>
 
-    <circle cx="400" cy="290" r="18" fill="#111827"/>
-    <text x="400" y="295"
-      text-anchor="middle"
-      fill="#60a5fa"
-      font-family="monospace"
-      font-size="8">Linux</text>
+    <image
+      href="./icons/linux.svg"
+      x="430"
+      y="318"
+      width="40"
+      height="40"/>
 
   </g>
 
@@ -124,38 +128,38 @@
     <animateTransform
       attributeName="transform"
       type="rotate"
-      from="360 400 200"
-      to="0 400 200"
+      from="360 450 225"
+      to="0 450 225"
       dur="40s"
       repeatCount="indefinite"/>
 
-    <circle cx="540" cy="200" r="20" fill="#111827"/>
-    <text x="540" y="205"
-      text-anchor="middle"
-      fill="#93c5fd"
-      font-family="monospace"
-      font-size="8">GitHub</text>
+    <image
+      href="./icons/github.svg"
+      x="600"
+      y="205"
+      width="44"
+      height="44"/>
 
-    <circle cx="400" cy="60" r="20" fill="#111827"/>
-    <text x="400" y="65"
-      text-anchor="middle"
-      fill="#93c5fd"
-      font-family="monospace"
-      font-size="8">JS</text>
+    <image
+      href="./icons/js.svg"
+      x="428"
+      y="34"
+      width="44"
+      height="44"/>
 
-    <circle cx="260" cy="200" r="20" fill="#111827"/>
-    <text x="260" y="205"
-      text-anchor="middle"
-      fill="#93c5fd"
-      font-family="monospace"
-      font-size="8">VSCode</text>
+    <image
+      href="./icons/vscode.svg"
+      x="256"
+      y="205"
+      width="44"
+      height="44"/>
 
-    <circle cx="400" cy="340" r="20" fill="#111827"/>
-    <text x="400" y="345"
-      text-anchor="middle"
-      fill="#93c5fd"
-      font-family="monospace"
-      font-size="8">Django</text>
+    <image
+      href="./icons/django.svg"
+      x="428"
+      y="376"
+      width="44"
+      height="44"/>
 
   </g>
 
