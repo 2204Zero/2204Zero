@@ -53,7 +53,7 @@ Still learning. Still building.
 
 ## What I'm working on
 
-* Data Structures & Algorithms in **C++**
+* Data Structures & Algorithms in **Java**
 * Web Development with focus on **real-world use cases**
 * Exploring **AI systems** and how they work internally
 * Building projects that solve **actual problems**
@@ -65,7 +65,7 @@ Still learning. Still building.
 ### Tools & Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,django,git,github,linux,vscode,docker&theme=dark" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ Still learning. Still building.
 ---
 ## Contact
 
-* GitHub: https://github.com/2204Zero
+* Email: lakshyagoyal701@gmail.com
 
 ---
 
