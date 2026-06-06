@@ -29,9 +29,6 @@ I'm a computer science student focused on **core software engineering**, **probl
 
 I prefer understanding fundamentals deeply before moving to abstractions.
 
-<p align="center">
-  <img src="./assets/orbit.svg" width="85%">
-</p>
 
 ---
 
@@ -100,7 +97,7 @@ Database Fundamentals
 ## Technology Constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,django,git,github,linux,vscode,docker,mysql&theme=dark" />
+  <img src="./assets/orbit.svg" width="85%">
 </p>
 
 ---
