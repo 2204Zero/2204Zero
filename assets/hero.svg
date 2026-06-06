@@ -1,1 +1,329 @@
+<svg viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+
+```
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#020617"/>
+  <stop offset="50%" stop-color="#081229"/>
+  <stop offset="100%" stop-color="#0f172a"/>
+</linearGradient>
+
+<radialGradient id="planetGlow">
+  <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0"/>
+</radialGradient>
+```
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- Nebula -->
+
+<ellipse
+ cx="800"
+ cy="110"
+ rx="520"
+ ry="130"
+ fill="#2563eb"
+ opacity="0.04"/>
+
+  <!-- Static Stars -->
+
+  <g fill="white">
+
+```
+<circle cx="120" cy="90" r="1.5">
+  <animate attributeName="opacity" values="1;.3;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="340" cy="140" r="1">
+  <animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="620" cy="70" r="1.5">
+  <animate attributeName="opacity" values="1;.4;1" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="940" cy="90" r="1">
+  <animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1250" cy="80" r="1.5">
+  <animate attributeName="opacity" values="1;.3;1" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1450" cy="120" r="1">
+  <animate attributeName="opacity" values="1;.2;1" dur="5s" repeatCount="indefinite"/>
+</circle>
+```
+
+  </g>
+
+  <!-- Shooting Star 1 -->
+
+  <g>
+
+```
+<line
+  x1="0"
+  y1="0"
+  x2="120"
+  y2="0"
+  stroke="white"
+  stroke-width="2"
+  opacity="0">
+
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="1.8s"
+    repeatCount="indefinite"/>
+
+</line>
+
+<circle
+  cx="120"
+  cy="0"
+  r="3"
+  fill="white"
+  opacity="0">
+
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="1.8s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+<animateTransform
+  attributeName="transform"
+  type="translate"
+  from="-300 80"
+  to="1800 260"
+  dur="1.8s"
+  repeatCount="indefinite"/>
+```
+
+  </g>
+
+  <!-- Shooting Star 2 -->
+
+  <g>
+
+```
+<line
+  x1="0"
+  y1="0"
+  x2="90"
+  y2="0"
+  stroke="white"
+  stroke-width="1.8"
+  opacity="0">
+
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="2.2s"
+    repeatCount="indefinite"/>
+
+</line>
+
+<circle
+  cx="90"
+  cy="0"
+  r="2.5"
+  fill="white"
+  opacity="0">
+
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="2.2s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+<animateTransform
+  attributeName="transform"
+  type="translate"
+  from="1700 40"
+  to="-300 300"
+  dur="2.2s"
+  repeatCount="indefinite"/>
+```
+
+  </g>
+
+  <!-- Shooting Star 3 -->
+
+  <g>
+
+```
+<line
+  x1="0"
+  y1="0"
+  x2="140"
+  y2="0"
+  stroke="white"
+  stroke-width="2"
+  opacity="0">
+
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="1.5s"
+    repeatCount="indefinite"/>
+
+</line>
+
+<circle
+  cx="140"
+  cy="0"
+  r="3"
+  fill="white"
+  opacity="0">
+
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="1.5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+<animateTransform
+  attributeName="transform"
+  type="translate"
+  from="300 -50"
+  to="1600 420"
+  dur="1.5s"
+  repeatCount="indefinite"/>
+```
+
+  </g>
+
+  <!-- Radar -->
+
+  <g transform="translate(260 320)">
+
+```
+<circle r="80"
+  stroke="#38bdf8"
+  stroke-width="1"
+  fill="none"
+  opacity="0.15"/>
+
+<circle r="55"
+  stroke="#38bdf8"
+  stroke-width="1"
+  fill="none"
+  opacity="0.15"/>
+
+<circle r="30"
+  stroke="#38bdf8"
+  stroke-width="1"
+  fill="none"
+  opacity="0.15"/>
+
+<line
+  x1="0"
+  y1="0"
+  x2="80"
+  y2="0"
+  stroke="#38bdf8"
+  stroke-width="2">
+
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    from="0"
+    to="360"
+    dur="5s"
+    repeatCount="indefinite"/>
+
+</line>
+```
+
+  </g>
+
+  <!-- Planet Glow -->
+
+<circle
+ cx="1500"
+ cy="390"
+ r="170"
+ fill="url(#planetGlow)"/>
+
+  <!-- Planet -->
+
+<circle
+ cx="1500"
+ cy="390"
+ r="120"
+ fill="#1e3a8a"/>
+
+<circle
+ cx="1450"
+ cy="340"
+ r="24"
+ fill="#60a5fa"
+ opacity="0.25"/>
+
+<circle
+ cx="1530"
+ cy="420"
+ r="18"
+ fill="#60a5fa"
+ opacity="0.2"/>
+
+  <!-- Title -->
+
+<text
+ x="800"
+ y="225"
+ text-anchor="middle"
+ fill="#ffffff"
+ font-size="64"
+ font-family="monospace"
+ font-weight="700"
+ letter-spacing="6">
+
+```
+ZERO PROGRAMMING
+```
+
+  </text>
+
+  <!-- Subtitle -->
+
+<text
+ x="800"
+ y="275"
+ text-anchor="middle"
+ fill="#60a5fa"
+ font-size="18"
+ font-family="monospace"
+ letter-spacing="4">
+
+```
+BUILD • LEARN • CREATE
+```
+
+  </text>
+
+  <!-- Underline -->
+
+<line
+ x1="500"
+ y1="315"
+ x2="1100"
+ y2="315"
+ stroke="#60a5fa"
+ opacity="0.2"/>
+
+</svg>
