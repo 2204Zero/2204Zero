@@ -1,17 +1,6 @@
 
 ### Hi, I'm Lakshya
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                 ZERO PROGRAMMING MISSION LOG               │
-├────────────────────────────────────────────────────────────┤
-│ ROLE      : Computer Science Student                       │
-│ STATUS    : Learning                                       │
-│ OBJECTIVE : Build AI Systems                               │
-│ METHOD    : Build → Break → Understand → Repeat            │
-└────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ### About Me
