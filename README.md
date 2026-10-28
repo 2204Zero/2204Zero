@@ -3,12 +3,9 @@
 
 ---
 
-### About Me
-
 I'm a computer science student focused on **core software engineering**, **problem-solving**, and **building practical systems**.
 
 I prefer understanding fundamentals deeply before moving to abstractions.
-
 
 ---
 
